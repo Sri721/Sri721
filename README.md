@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sri-mathi-4280341ba](https://www.linkedin.com/in/sri-mathi-4280341ba)
 
-- 💬 Ask me about **I m an enthuastic Data techie who likes to rattle data.Feel free to reach out to me with any suggestions or feedback.**
+- 💬 Ask me about **database,data,tech,Android**
 
 - 📫 How to reach me **srimat721@gmail.com**
 
