@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srimathi</h1>
 <h3 align="center">A women Techie with data driven passion to explore</h3>
-
+<img align="right" alt="coding" width="400" scr="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sri721&label=Profile%20views&color=0e75b6&style=flat" alt="sri721" /> </p>
 
 - 🔭 I’m currently working on **Sentiment analysis using Python(ML)**
