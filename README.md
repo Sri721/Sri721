@@ -1,3 +1,5 @@
+![logo](https://github.com/Sri721/Sri721/blob/main/Hi_i_m_srimathi.png)
+
 <h1 align="center">Hi 👋, I'm Srimathi</h1>
 <h3 align="center">A women Techie with data driven passion to explore</h3>
 <img align="right" alt="coding" width="400" src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
